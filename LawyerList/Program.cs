@@ -3,6 +3,9 @@ using System.IO;
 
 namespace LawyerList
 {
+    /// <summary>
+    ///
+    /// </summary>
     internal class Program
     {
         private static string[] _Categories = { "Advocacy", "Business Law", "Children's Law", "Commercial Litigation",
